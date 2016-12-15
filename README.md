@@ -1,6 +1,6 @@
 #Stockpicker
 
-Stockpicker that takes an array of stock prices, one for each hypothetical day.  It returns a pair of days representing the best day to buy and the best day to sell.  Days start at 0.
+Stockpicker is a method that takes an array of stock prices, one for each hypothetical day.  It returns a pair of days representing the best day to buy and the best day to sell.  Days start at 0.
 
 ```
     > stock_picker([17,3,6,9,15,8,6,1,10])
